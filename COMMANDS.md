@@ -26,7 +26,7 @@ git -u push origin
 
 ## SSH KEY GENERATION
 ### ssh key generation
-ssh-keygen -t rsa -b 4096 -C "bethwellangat05@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "name@gmail.com"
 ### adding key to ssh-agent
 ssh-add ~/.ssh/id_rsa
 ### Start ssh-agent
