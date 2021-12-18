@@ -8,11 +8,11 @@ commit -> Save your files in Git
 push - Upoad Git commits to a remote repo, like Github
 pull -> Download changes from remote repo to your local machine, the oppositr of push
 
-## Commands - pull repository to the local machine
+# Commands - pull repository to the local machine
 
 ## CLONE REPOSITORY
 git clone <ssh name>
-## Comit Channges
+## Commit Channges
 git status - shows files created, deleted but not yet changed
 git add . /or/ git add <specific file name>  - add untracked files
 git commit -m "message for doing the commit" -m "Message for commiting"
